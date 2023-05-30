@@ -1,6 +1,6 @@
 @import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
 .td-btn a{
-	background: #ffc500 !important;
+	background:  rgb(255,255,255, 0.8);;
     padding: 6px 13px;
     border-radius: 50px;
 }
@@ -88,7 +88,7 @@ hr {
 }
 .site-btn.icon i {
     color: #000;
-    background: #fff;
+    background: rgb(255,255,255, 0.75);
     margin-left: 15px;
     border-radius: 50px;
     font-size: 11px;
@@ -100,7 +100,7 @@ hr {
     margin-top: 4px
 }
 #content {
-    background: #fff;
+    background: rgb(255,255,255, 0.75);
     box-shadow: 0 2px 92px 0 rgba(0, 0, 0, .07);
     -webkit-box-shadow: 0 2px 92px 0 rgba(0, 0, 0, .07);
     -moz-box-shadow: 0 2px 92px 0 rgba(0, 0, 0, .07)
@@ -251,7 +251,7 @@ h6 {
     width: 100%
 }
 .profile {
-    background: #fff;
+    background: rgb(255,255,255, 0.75);
     border-radius: 6px;
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
@@ -311,7 +311,7 @@ ul.profile-information li:before {
     margin-left: -25px;
     margin-top: 2px;
     font-weight: 400;
-    background: #fff;
+    background: rgb(255,255,255, 0.75);
     display: block;
     position: absolute
 }
@@ -356,7 +356,7 @@ ul.profile-information li:first-child:after {
     display: block
 }
 header nav {
-    background: #fff;
+    background: rgb(255,255,255, 0.75);
     display: inline-block;
     border-radius: 6px;
     -moz-border-radius: 6px;
@@ -473,7 +473,7 @@ section.graybg {
     line-height: 30px
 }
 .clients .client {
-    background: #fff;
+    background: rgb(255,255,255, 0.75);
     width: 100%;
     padding: 26px 16px
 }
@@ -485,7 +485,7 @@ section.graybg {
     margin-left: 0
 }
 .service {
-    background: #fff;
+    background: rgb(255,255,255, 0.75);
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     padding: 20px;
@@ -510,7 +510,7 @@ ul.timeline {
     font-size: 8px;
     margin-left: -35px;
     font-weight: 400;
-    background: #fff;
+    background: rgb(255,255,255, 0.75);
     display: block;
     position: absolute;
     margin-top: -1px
@@ -532,7 +532,7 @@ ul.timeline {
     padding: 18px 16px;
     border-radius: 30px;
     margin: -13px -45px;
-    background: #fff;
+    background: rgb(255,255,255, 0.75);
     width: 53px;
     text-align: center
 }
@@ -1340,7 +1340,7 @@ footer .footer .copyright a:hover {
     }
     header nav .menuout .menuin {
         width: 100%;
-        background: #fff;
+        background: rgb(255,255,255, 0.75);
         position: absolute;
         z-index: 4;
         margin-top: 25px;
