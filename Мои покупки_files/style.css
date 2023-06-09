@@ -275,6 +275,7 @@ h6 {
     color: #777
 }
 .profile-image {
+	margin-bottom: 50px;
     margin-top: -18px;
     -webkit-clip-path: polygon(0 9%, 100% 0, 100% 94%, 0 100%);
     clip-path: polygon(0 9%, 100% 0, 100% 94%, 0 100%)
