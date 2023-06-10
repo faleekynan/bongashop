@@ -638,7 +638,7 @@ th {
   content: "\e116";
 }
 .glyphicon-folder-close:before {
-  content: "\e117";
+  content: "\e149";
 }
 .glyphicon-folder-open:before {
   content: "\e118";
@@ -1579,7 +1579,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 1490px;
   }
 }
 .container-fluid {
