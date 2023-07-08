@@ -1080,7 +1080,7 @@ html {
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 13px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #333333;
   background-color: white;
 }
@@ -1126,7 +1126,7 @@ img {
 }
 .img-thumbnail {
   padding: 4px;
-  line-height: 1.42857143;
+  line-height: 2;
   background-color: white;
   border: 0px solid #dddddd;
   border-radius: 2px;
@@ -1440,7 +1440,7 @@ dl {
 }
 dt,
 dd {
-  line-height: 1.42857143;
+  line-height: 2;
 }
 dt {
   font-weight: bold;
@@ -1487,7 +1487,7 @@ blockquote small,
 blockquote .small {
   display: block;
   font-size: 80%;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #777777;
 }
 blockquote footer:before,
@@ -1522,7 +1522,7 @@ blockquote.pull-right .small:after {
 address {
   margin-bottom: 18px;
   font-style: normal;
-  line-height: 1.42857143;
+  line-height: 2;
 }
 code,
 kbd,
@@ -1558,7 +1558,7 @@ pre {
   padding: 8.5px;
   margin: 0 0 9px;
   font-size: 12px;
-  line-height: 1.42857143;
+  line-height: 2;
   word-break: break-all;
   word-wrap: break-word;
   color: #333333;
@@ -2269,7 +2269,7 @@ th {
 .table > tbody > tr > td,
 .table > tfoot > tr > td {
   padding: 8px;
-  line-height: 1.42857143;
+  line-height: 2;
   vertical-align: top;
   border-top: 1px solid #e6e6e6;
 }
@@ -2541,7 +2541,7 @@ output {
   display: block;
   padding-top: 7px;
   font-size: 13px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #555555;
 }
 .form-control {
@@ -2550,7 +2550,7 @@ output {
   height: 32px;
   padding: 6px 12px;
   font-size: 13px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #555555;
   background-color: #ffffff;
   background-image: none;
@@ -3008,7 +3008,7 @@ select[multiple].input-lg {
   white-space: nowrap;
   padding: 6px 12px;
   font-size: 13px;
-  line-height: 1.42857143;
+  line-height: 2;
   border-radius: 2px;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -3603,7 +3603,7 @@ tbody.collapse.in {
   padding: 3px 20px;
   clear: both;
   font-weight: normal;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #858585;
   white-space: nowrap;
 }
@@ -3652,7 +3652,7 @@ tbody.collapse.in {
   display: block;
   padding: 3px 20px;
   font-size: 12px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #777777;
   white-space: nowrap;
 }
@@ -4068,7 +4068,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav-tabs > li > a {
   margin-right: 2px;
-  line-height: 1.42857143;
+  line-height: 2;
   border: 1px solid transparent;
   border-radius: 2px 2px 0 0;
 }
@@ -4766,7 +4766,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   position: relative;
   float: left;
   padding: 6px 12px;
-  line-height: 1.42857143;
+  line-height: 2;
   text-decoration: none;
   color: #333333;
   background-color: #ffffff;
@@ -5044,7 +5044,7 @@ a.badge:focus {
   display: block;
   padding: 4px;
   margin-bottom: 18px;
-  line-height: 1.42857143;
+  line-height: 2;
   background-color: white;
   border: 0px solid #dddddd;
   border-radius: 2px;
@@ -5990,7 +5990,7 @@ button.close {
 }
 .modal-title {
   margin: 0;
-  line-height: 1.42857143;
+  line-height: 2;
 }
 .modal-body {
   position: relative;
@@ -6045,7 +6045,7 @@ button.close {
   font-weight: normal;
   letter-spacing: normal;
   line-break: auto;
-  line-height: 1.42857143;
+  line-height: 2;
   text-align: left;
   text-align: start;
   text-decoration: none;
@@ -6163,7 +6163,7 @@ button.close {
   font-weight: normal;
   letter-spacing: normal;
   line-break: auto;
-  line-height: 1.42857143;
+  line-height: 2;
   text-align: left;
   text-align: start;
   text-decoration: none;

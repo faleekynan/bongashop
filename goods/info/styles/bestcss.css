@@ -209,7 +209,7 @@ img {
 }
 .img-leque-thumbnail {
   padding: 4px;
-  line-height: 1.42857143;
+  line-height: 2;
   background-color: #ffffff;
   border: 0px solid #dddddd;
   border-radius: 4px;
@@ -276,7 +276,7 @@ th {
 .table-leque > tbody > tr > td,
 .table-leque > tfoot > tr > td {
   padding: 8px;
-  line-height: 1.42857143;
+  line-height: 2;
   vertical-align: sub;
   font-family: sans-serif;
 }
@@ -548,7 +548,7 @@ output {
   display: block;
   padding-top: 7px;
   font-size: 14px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #555555;
 }
 .form-leque-control {
@@ -557,7 +557,7 @@ output {
   height: 34px !important;
   padding: 6px 12px !important;
   font-size: 14px !important;
-  line-height: 1.42857143 !important;
+  line-height: 2 !important;
   color: #555 !important;
   background-color: #fff !important;
   background-image: none !important;
@@ -1019,7 +1019,7 @@ select[multiple].input-leque-lg {
   white-space: nowrap;
   padding: 6px 12px;
   font-size: 14px;
-  line-height: 1.42857143;
+  line-height: 2;
   border-radius: 4px;
   -webkit-user-select: none;
   -moz-user-select: none;

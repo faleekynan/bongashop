@@ -2315,7 +2315,7 @@ blockquote {
 blockquote footer,blockquote small,blockquote .small {
   display: block;
   font-size: 80%;
-  line-height: 1.42857143;
+  line-height: 2;
   color: inherit;
   opacity: 0.6
 }
@@ -3065,7 +3065,7 @@ div[data-role="editor-toolbar"] {
 
 .nav-tabs>li>a {
   margin-right: 2px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: inherit;
   border: none;
   border-radius: 0

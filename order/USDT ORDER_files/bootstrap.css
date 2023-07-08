@@ -1076,7 +1076,7 @@ html {
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #333;
   background-color: #fff;
 }
@@ -1125,7 +1125,7 @@ img {
   max-width: 100%;
   height: auto;
   padding: 4px;
-  line-height: 1.42857143;
+  line-height: 2;
   background-color: #fff;
   border: 0px solid #ddd;
   border-radius: 4px;
@@ -1423,7 +1423,7 @@ dl {
 }
 dt,
 dd {
-  line-height: 1.42857143;
+  line-height: 2;
 }
 dt {
   font-weight: bold;
@@ -1470,7 +1470,7 @@ blockquote small,
 blockquote .small {
   display: block;
   font-size: 80%;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #777;
 }
 blockquote footer:before,
@@ -1505,7 +1505,7 @@ blockquote.pull-right .small:after {
 address {
   margin-bottom: 20px;
   font-style: normal;
-  line-height: 1.42857143;
+  line-height: 2;
 }
 code,
 kbd,
@@ -1541,7 +1541,7 @@ pre {
   padding: 9.5px;
   margin: 0 0 10px;
   font-size: 13px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #333;
   word-break: break-all;
   word-wrap: break-word;
@@ -2252,7 +2252,7 @@ th {
 .table > tbody > tr > td,
 .table > tfoot > tr > td {
   padding: 22px;
-  line-height: 1.42857143;
+  line-height: 2;
   vertical-align: top;
   border-top: 0px solid #ddd;
 }
@@ -2524,7 +2524,7 @@ output {
   display: block;
   padding-top: 7px;
   font-size: 14px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #555;
 }
 .form-control {
@@ -2533,7 +2533,7 @@ output {
   height: 34px;
   padding: 6px 12px;
   font-size: 14px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #555;
   background-color: #fff;
   background-image: none;
@@ -2970,7 +2970,7 @@ select[multiple].form-group-lg .form-control {
   margin-bottom: 0;
   font-size: 14px;
   font-weight: normal;
-  line-height: 1.42857143;
+  line-height: 2;
   text-align: center;
   white-space: nowrap;
   vertical-align: middle;
@@ -3445,7 +3445,7 @@ tbody.collapse.in {
   padding: 3px 20px;
   clear: both;
   font-weight: normal;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #333;
   white-space: nowrap;
 }
@@ -3494,7 +3494,7 @@ tbody.collapse.in {
   display: block;
   padding: 3px 20px;
   font-size: 12px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #777;
   white-space: nowrap;
 }
@@ -3906,7 +3906,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav-tabs > li > a {
   margin-right: 2px;
-  line-height: 1.42857143;
+  line-height: 2;
   border: 1px solid transparent;
   border-radius: 4px 4px 0 0;
 }
@@ -4608,7 +4608,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   float: left;
   padding: 6px 12px;
   margin-left: -1px;
-  line-height: 1.42857143;
+  line-height: 2;
   color: #337ab7;
   text-decoration: none;
   background-color: #fff;
@@ -4879,7 +4879,7 @@ a.badge:focus {
   display: block;
   padding: 4px;
   margin-bottom: 20px;
-  line-height: 1.42857143;
+  line-height: 2;
   background-color: #fff;
   border: 0px solid #ddd;
   border-radius: 4px;
@@ -5773,7 +5773,7 @@ button.close {
 }
 .modal-title {
   margin: 0;
-  line-height: 1.42857143;
+  line-height: 2;
 }
 .modal-body {
   position: relative;
@@ -5934,7 +5934,7 @@ button.close {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: normal;
-  line-height: 1.42857143;
+  line-height: 2;
   text-align: left;
   white-space: normal;
   background-color: #fff;
